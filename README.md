@@ -1,2 +1,2 @@
-# Django-Rest-Framework-Basico
-Modulo basico sobre apis da geek university 
+# Django-Rest-Framework-Intermediary
+Modulo Intermediario sobre apis da geek university 
